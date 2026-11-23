@@ -6,3 +6,4 @@
 
 - [演算法與模型](algorithms/index.md)：強化學習、深度學習、機器學習與最佳化方法。
 - [資訊安全](security/index.md)：入侵偵測及異常偵測相關方法。
+- [物聯網與系統架構](systems/index.md)：邊緣運算、任務卸載及無線感測。

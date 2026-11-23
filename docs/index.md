@@ -36,9 +36,9 @@
 
 ## 目前收錄內容
 
-- **3 篇論文心得：** 時間序列異常偵測、網路切片資源分配、IoMT 入侵偵測。
-- **13 篇知識筆記：** 涵蓋強化學習、深度學習、元學習、資料前處理、特徵工程及異常偵測。
-- **3 個研究主題：** Deep Learning、Cybersecurity & IoMT Intrusion Detection、Network Slicing & Resource Allocation。
+- **5 篇論文心得：** 涵蓋時間序列異常偵測、網路切片資源分配、IoMT 入侵偵測、AIoT 無線感測及邊緣運算。
+- **17 篇知識筆記：** 涵蓋機器學習、深度學習、資安、無線感測及物聯網系統架構。
+- **5 個研究主題：** Deep Learning、Cybersecurity & IoMT Intrusion Detection、Network Slicing & Resource Allocation、AIoT & Wireless Sensing、Edge Computing & IoT Offloading。
 
 ## 使用方式
 

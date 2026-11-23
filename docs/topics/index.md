@@ -5,3 +5,5 @@
 - [Deep Learning](deep-learning.md)
 - [Cybersecurity & IoMT Intrusion Detection](cybersecurity.md)
 - [Network Slicing & Resource Allocation](network-slicing-resource-allocation.md)
+- [AIoT & Wireless Sensing](aiot-wireless-sensing.md)
+- [Edge Computing & IoT Offloading](edge-computing-iot.md)

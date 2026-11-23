@@ -49,6 +49,8 @@ nav:
       - Harnessing VLMs for TSAD: papers/harnessing-vlm-time-series-anomaly-detection.md
       - DRL for Network Slicing: papers/deep-reinforcement-learning-network-slicing.md
       - Meta-IDS for IoMT: papers/meta-ids-iomt-intrusion-detection.md
+      - Knowledge Distillation for AIoT Wireless Sensing: papers/knowledge-distillation-aiot-wireless-gesture-sensing.md
+      - Edge Computing for IoT: papers/meeting-iot-requirements-edge-computing.md
   - 知識庫:
       - knowledge/index.md
       - 演算法與模型:
@@ -58,6 +60,7 @@ nav:
           - LSTM: knowledge/algorithms/lstm.md
           - 1D-CNN: knowledge/algorithms/1d-cnn.md
           - Meta-Learning: knowledge/algorithms/meta-learning.md
+          - Knowledge Distillation: knowledge/algorithms/knowledge-distillation.md
           - XGBoost: knowledge/algorithms/xgboost.md
           - SMOTE: knowledge/algorithms/smote.md
           - RFE: knowledge/algorithms/rfe.md
@@ -68,8 +71,15 @@ nav:
           - knowledge/security/index.md
           - Mean Shift Clustering: knowledge/security/mean-shift-clustering.md
           - Biased Classifiers: knowledge/security/biased-classifiers.md
+      - 物聯網與系統架構:
+          - knowledge/systems/index.md
+          - Edge Computing: knowledge/systems/edge-computing.md
+          - Task Offloading: knowledge/systems/task-offloading.md
+          - Wi-Fi CSI 無線感測: knowledge/systems/wifi-csi-wireless-sensing.md
   - 研究主題:
       - topics/index.md
       - Deep Learning: topics/deep-learning.md
       - Cybersecurity & IoMT: topics/cybersecurity.md
       - Network Slicing: topics/network-slicing-resource-allocation.md
+      - AIoT & Wireless Sensing: topics/aiot-wireless-sensing.md
+      - Edge Computing & IoT Offloading: topics/edge-computing-iot.md

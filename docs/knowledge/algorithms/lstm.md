@@ -34,6 +34,7 @@ LSTM 透過記憶細胞（Cell State）與輸入門、遺忘門、輸出門控�
 ## 6. 相關論文
 
 - [Deep Reinforcement Learning for Online Resource Allocation in Network Slicing](../../papers/deep-reinforcement-learning-network-slicing.md)
+- [Knowledge Distillation-Based AIoT Framework for Efficient Wireless Gesture Sensing in B5G/6G Networks](../../papers/knowledge-distillation-aiot-wireless-gesture-sensing.md)
 
 ## 7. 相關知識
 

@@ -15,6 +15,7 @@
 ## 機器學習與元學習
 
 - [Meta-Learning（元學習）](meta-learning.md)
+- [Knowledge Distillation（知識蒸餾）](knowledge-distillation.md)
 - [XGBoost](xgboost.md)
 
 ## 資料處理與特徵工程
