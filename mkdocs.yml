@@ -1,0 +1,75 @@
+site_name: Research Knowledge Hub
+site_description: 個人論文閱讀與研究知識庫
+site_url: https://YOUR_GITHUB_NAME.github.io/research-knowledge-hub/
+
+theme:
+  name: material
+  language: zh-TW
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: 切換深色模式
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: 切換淺色模式
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - 首頁: index.md
+  - 論文心得:
+      - papers/index.md
+      - Harnessing VLMs for TSAD: papers/harnessing-vlm-time-series-anomaly-detection.md
+      - DRL for Network Slicing: papers/deep-reinforcement-learning-network-slicing.md
+      - Meta-IDS for IoMT: papers/meta-ids-iomt-intrusion-detection.md
+  - 知識庫:
+      - knowledge/index.md
+      - 演算法與模型:
+          - knowledge/algorithms/index.md
+          - TRPO: knowledge/algorithms/trpo.md
+          - Lyapunov Optimization: knowledge/algorithms/lyapunov-optimization.md
+          - LSTM: knowledge/algorithms/lstm.md
+          - 1D-CNN: knowledge/algorithms/1d-cnn.md
+          - Meta-Learning: knowledge/algorithms/meta-learning.md
+          - XGBoost: knowledge/algorithms/xgboost.md
+          - SMOTE: knowledge/algorithms/smote.md
+          - RFE: knowledge/algorithms/rfe.md
+          - LDA: knowledge/algorithms/lda.md
+          - Bat Algorithm: knowledge/algorithms/bat-algorithm.md
+          - BO-TPE: knowledge/algorithms/bo-tpe.md
+      - 資安:
+          - knowledge/security/index.md
+          - Mean Shift Clustering: knowledge/security/mean-shift-clustering.md
+          - Biased Classifiers: knowledge/security/biased-classifiers.md
+  - 研究主題:
+      - topics/index.md
+      - Deep Learning: topics/deep-learning.md
+      - Cybersecurity & IoMT: topics/cybersecurity.md
+      - Network Slicing: topics/network-slicing-resource-allocation.md
